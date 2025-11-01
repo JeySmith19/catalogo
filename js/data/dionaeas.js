@@ -2,28 +2,28 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Típica'",
     imagen: "imagenes/dioneas/tipica.jpg",
-    precios: { chica: "10 soles", mediana: "25 soles", grande: "-" },
+    precios: { chica: "15 soles", mediana: "30 soles", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Red Sawtooth'",
     imagen: "imagenes/dioneas/red sawtooth.png",
-    precios: { chica: "15 soles", mediana: "-", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Green Sawtooth'",
     imagen: "imagenes/dioneas/green sawtooth.png",
-    precios: { chica: "15 soles", mediana: "-", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Sawtooth'",
     imagen: "imagenes/dioneas/sawtooth.png",
-    precios: { chica: "15 soles", mediana: "25 soles", grande: "-" },
+    precios: { chica: "20 soles", mediana: "30 soles", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
@@ -44,7 +44,7 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Dracula'",
     imagen: "imagenes/dioneas/dracula.png",
-    precios: { chica: "10 soles", mediana: "-", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
@@ -58,7 +58,7 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Ghost'",
     imagen: "imagenes/dioneas/ghost.png",
-    precios: { chica: "60 soles", mediana: "-", grande: "-" },
+    precios: { chica: "80 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
@@ -72,7 +72,7 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Pac-Man'",
     imagen: "imagenes/dioneas/pacman.png",
-    precios: { chica: "60 soles", mediana: "-", grande: "-" },
+    precios: { chica: "70 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
@@ -86,14 +86,14 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Bohemian Garnet'",
     imagen: "imagenes/dioneas/bohemian garnet.png",
-    precios: { chica: "10 soles", mediana: "25 soles", grande: "35 soles" },
+    precios: { chica: "20 soles", mediana: "30 soles", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Coq Couche'",
     imagen: "imagenes/dioneas/coq couche.png",
-    precios: { chica: "10 soles", mediana: "-", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
@@ -107,49 +107,49 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Red Daggers'",
     imagen: "imagenes/dioneas/red daggers.png",
-    precios: { chica: "15 soles", mediana: "-", grande: "-" },
+    precios: { chica: "-", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'TDK2'",
     imagen: "imagenes/dioneas/tdk2.png",
-    precios: { chica: "15 soles", mediana: "-", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Tritón'",
     imagen: "imagenes/dioneas/triton.png",
-    precios: { chica: "15 soles", mediana: "-", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Marston Giant'",
     imagen: "imagenes/dioneas/marston giant.png",
-    precios: { chica: "10 soles", mediana: "-", grande: "-" },
+    precios: { chica: "15 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'B52 Giant'",
     imagen: "imagenes/dioneas/b52 giant.png",
-    precios: { chica: "20 soles", mediana: "-", grande: "-" },
+    precios: { chica: "25 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'AR Werewolf Clon A'",
     imagen: "imagenes/dioneas/ar werewolf clon a.png",
-    precios: { chica: "35 soles", mediana: "-", grande: "-" },
+    precios: { chica: "45 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Fondue'",
     imagen: "imagenes/dioneas/fondue.png",
-    precios: { chica: "25 soles", mediana: "-", grande: "-" },
+    precios: { chica: "27 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
@@ -289,7 +289,7 @@ const dionaeas = [
 {
   nombre: "Dionaea muscipula 'Red Bull'",
   imagen: "imagenes/dioneas/red bull.jpg",
-  precios: { chica: "10", mediana: "-", grande: "-" },
+  precios: { chica: "20", mediana: "-", grande: "-" },
   estado: "disponible",
   actualizacion: "31/10/2025"
 },
