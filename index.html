@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Catálogo - El Vivero de Jey</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="imagenes/icono.ico" type="image/png">
+</head>
+<body>
+  <header>
+    <img src="imagenes/logo.png" alt="El Vivero de Jey" class="logo">
+    <h1>Catálogo de Plantas Carnívoras</h1>
+  </header>
+
+  <section id="filtros">
+    <select id="categoriaFiltro">
+      <option value="todas">Todas las categorías</option>
+      <option value="dionaeas">Dionaeas</option>
+      <option value="droseras">Droseras</option>
+      <option value="nepenthes">Nepenthes</option>
+      <option value="pinguiculas">Pinguiculas</option>
+      <option value="sarracenias">sarracenias</option>
+    </select>
+
+    <select id="estadoFiltro">
+      <option value="todos">Todos los estados</option>
+      <option value="disponible">Disponible</option>
+      <option value="nodisponible">No disponible</option>
+      <option value="proximamente">Próximamente</option>
+    </select>
+
+    <input type="text" id="buscador" placeholder="Buscar planta...">
+  </section>
+
+  <main id="catalogo"></main>
+
+  <script src="js/data/dionaeas.js"></script>
+  <script src="js/data/droseras.js"></script>
+  <script src="js/data/nepenthes.js"></script>
+  <script src="js/data/pinguiculas.js"></script>
+  <script src="js/data/sarracenias.js"></script>
+  <script src="js/catalogo.js"></script>
+  <script src="js/extras.js"></script>
+
+</body>
+</html>
