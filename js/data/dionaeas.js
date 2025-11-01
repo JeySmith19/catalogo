@@ -128,7 +128,7 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Marston Giant'",
     imagen: "imagenes/dioneas/marston giant.png",
-    precios: { chica: "10 soles", mediana: "-", grande: "70 soles" },
+    precios: { chica: "10 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
