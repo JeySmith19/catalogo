@@ -1,7 +1,7 @@
 const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Típica'",
-    imagen: "imagenes/dioneas/tipica.png",
+    imagen: "imagenes/dioneas/tipica.jpg",
     precios: { chica: "10 soles", mediana: "25 soles", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
@@ -9,35 +9,35 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Red Sawtooth'",
     imagen: "imagenes/dioneas/red sawtooth.png",
-    precios: { chica: "10 soles", mediana: "-", grande: "-" },
+    precios: { chica: "15 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Green Sawtooth'",
     imagen: "imagenes/dioneas/green sawtooth.png",
-    precios: { chica: "10 soles", mediana: "-", grande: "-" },
+    precios: { chica: "15 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Sawtooth'",
     imagen: "imagenes/dioneas/sawtooth.png",
-    precios: { chica: "10 soles", mediana: "25 soles", grande: "-" },
+    precios: { chica: "15 soles", mediana: "25 soles", grande: "-" },
     estado: "disponible",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'Korean Melody Shark'",
     imagen: "imagenes/dioneas/korean melody shark.png",
-    precios: { chica: "-", mediana: "45", grande: "-" },
+    precios: { chica: "-", mediana: "-", grande: "-" },
     estado: "proximamente",
     actualizacion: "31/10/2025"
   },
   {
     nombre: "Dionaea muscipula 'GJ Equobia'",
     imagen: "imagenes/dioneas/gj equobia.jpg",
-    precios: { chica: "-", mediana: "30 soles", grande: "-" },
+    precios: { chica: "-", mediana: "-", grande: "-" },
     estado: "proximamente",
     actualizacion: "31/10/2025"
   },
@@ -313,6 +313,12 @@ const dionaeas = [
   precios: { chica: "-", mediana: "-", grande: "-" },
   estado: "proximamente",
   actualizacion: "31/10/2025"
+},
+{
+  nombre: "Dionaea muscipula 'Giant Clam'",
+  imagen: "imagenes/dioneas/giant clam.png",
+  precios: { chica: "-", mediana: "-", grande: "-" },
+  estado: "proximamente",
+  actualizacion: "01/11/2025"
 }
-
 ];
