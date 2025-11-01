@@ -2,28 +2,28 @@ const droseras = [
   {
     nombre: "Drosera spatulata",
     imagen: "imagenes/droseras/spatulata.png",
-    precios: { chica: "10", mediana: "-", grande: "-" },
+    precios: { chica: "15", mediana: "25", grande: "-" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },
   {
     nombre: "Drosera burmannii",
     imagen: "imagenes/droseras/burmanniis.png",
-    precios: { chica: "10", mediana: "-", grande: "-" },
+    precios: { chica: "10", mediana: "17", grande: "-" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },
   {
     nombre: "Drosera binata",
     imagen: "imagenes/droseras/binata.png",
-    precios: { chica: "8", mediana: "-", grande: "-" },
+    precios: { chica: "15", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },
   {
     nombre: "Drosera binata Marston Dragon",
     imagen: "imagenes/droseras/binata marston dragon.png",
-    precios: { chica: "-", mediana: "-", grande: "35" },
+    precios: { chica: "-", mediana: "-", grande: "40" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },
@@ -79,7 +79,7 @@ const droseras = [
   {
     nombre: "Drosera filiformis",
     imagen: "imagenes/droseras/filiformis.png",
-    precios: { chica: "10", mediana: "25", grande: "-" },
+    precios: { chica: "15", mediana: "25", grande: "35" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },
@@ -100,7 +100,7 @@ const droseras = [
   {
     nombre: "Drosera intermedia",
     imagen: "imagenes/droseras/intermedia.png",
-    precios: { chica: "", mediana: "12", grande: "-" },
+    precios: { chica: "", mediana: "17", grande: "-" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },

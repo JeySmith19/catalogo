@@ -10,14 +10,14 @@ const nepenthes = [
   {
     nombre: "Nepenthes coccinea",
     imagen: "imagenes/nepenthes/coccinea.jpg",
-    precios: { chica: "-", mediana: "-", grande: "-" },
+    precios: { chica: "-", mediana: "40", grande: "-" },
     estado: "proximamente",
     actualizacion: "01/11/2025"
   },
   {
     nombre: "Nepenthes máxima x (boschiana x veitchii)",
     imagen: "imagenes/nepenthes/maxima-x-boschiana-x-veitchii.jpg",
-    precios: { chica: "-", mediana: "-", grande: "-" },
+    precios: { chica: "35", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "01/11/2025"
   },
