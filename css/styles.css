@@ -127,6 +127,7 @@ main {
   justify-content: space-between;
   overflow: hidden;
   transition: var(--trans);
+  position: relative;
 }
 
 .planta:hover {
@@ -187,4 +188,59 @@ main {
   color: var(--gris);
   text-align: right;
   padding: 6px 12px 10px;
+}
+
+@media (max-width: 650px) {
+
+  #filtros {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 10px;
+    padding: 12px 16px;
+    border-radius: 16px;
+    white-space: nowrap;
+    scrollbar-width: none;
+    scroll-snap-type: x mandatory;
+    scroll-padding-left: 16px;
+  }
+
+  #filtros::-webkit-scrollbar { display: none; }
+
+  #filtros > *:first-child { margin-left: 2px; }
+  #filtros > *:last-child  { margin-right: 2px; }
+
+  #filtros select,
+  #filtros input {
+    flex: 0 0 auto;
+    appearance: none;
+    border: 1px solid rgba(0,0,0,0.18);
+    background: #fff;
+    border-radius: 999px;
+    padding: 8px 16px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: 0.25s;
+    scroll-snap-align: start;
+    min-width: max-content;
+  }
+
+  #filtros select:hover,
+  #filtros input:hover {
+    border-color: var(--verde-suave);
+    box-shadow: 0 0 6px rgba(76,175,80,0.18);
+  }
+
+  #filtros select:focus,
+  #filtros input:focus {
+    border-color: var(--verde);
+    outline: none;
+  }
+
+  #buscador {
+    width: 140px;
+    min-width: 120px;
+  }
 }
