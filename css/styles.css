@@ -24,6 +24,7 @@ body {
   background: linear-gradient(180deg, #e8f1e8, #f6faf6);
   color: var(--texto);
   padding: 0 5vw 100px;
+  touch-action: manipulation;
 }
 
 /* ---------- HEADER ---------- */
@@ -220,11 +221,12 @@ main {
     background: #fff;
     border-radius: 999px;
     padding: 8px 16px;
-    font-size: 0.85rem;
+    font-size: 16px;
     font-weight: 500;
     transition: 0.25s;
     scroll-snap-align: start;
     min-width: max-content;
+    
   }
 
   #filtros select:hover,
@@ -244,3 +246,4 @@ main {
     min-width: 120px;
   }
 }
+
