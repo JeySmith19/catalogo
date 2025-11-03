@@ -17,7 +17,7 @@ const pinguiculas = [
     nombre: "Pinguicula esseriana",
     imagen: "imagenes/pinguiculas/esseriana.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "nonodisponible",
+    estado: "nodisponible",
     actualizacion: "27/10/2025"
   },
   {
@@ -31,7 +31,7 @@ const pinguiculas = [
     nombre: "Pinguicula florian",
     imagen: "imagenes/pinguiculas/florian.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "nodisponible",
+    estado: "proximamente",
     actualizacion: "01/11/2025"
   },
   {
@@ -45,7 +45,7 @@ const pinguiculas = [
     nombre: "Pinguicula sethos",
     imagen: "imagenes/pinguiculas/sethos.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "nodisponible",
+    estado: "proximamente",
     actualizacion: "01/11/2025"
   },
   {

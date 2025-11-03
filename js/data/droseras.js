@@ -107,8 +107,8 @@ const droseras = [
   {
     nombre: "Drosera pygmea",
     imagen: "imagenes/droseras/pygmea.png",
-    precios: { chica: "5", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
     actualizacion: "01/11/2025"
   }
 ];

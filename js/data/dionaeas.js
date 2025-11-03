@@ -51,8 +51,8 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Carboni'",
     imagen: "imagenes/dioneas/carboni.png",
-    precios: { chica: "80 soles", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
     actualizacion: "31/10/2025"
   },
   {
@@ -65,8 +65,8 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Fiamma'",
     imagen: "imagenes/dioneas/fiamma.png",
-    precios: { chica: "90 soles", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
     actualizacion: "31/10/2025"
   },
   {

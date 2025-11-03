@@ -39,7 +39,7 @@ const nepenthes = [
     nombre: "Nepenthes Máxima x fusca",
     imagen: "imagenes/nepenthes/maxima x fusca.jpg",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "nodisponible",
+    estado: "proximamente",
     actualizacion: "01/11/2025"
   }
 ];
