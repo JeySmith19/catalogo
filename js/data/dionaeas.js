@@ -108,7 +108,7 @@ const dionaeas = [
     nombre: "Dionaea muscipula 'Red Daggers'",
     imagen: "imagenes/dioneas/red daggers.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "disponible",
+    estado: "nodisponible",
     actualizacion: "31/10/2025"
   },
   {
