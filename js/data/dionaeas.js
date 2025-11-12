@@ -28,6 +28,111 @@ const dionaeas = [
     actualizacion: "31/10/2025"
   },
   {
+    nombre: "Dionaea muscipula 'Akai Ryu'",
+    imagen: "imagenes/dioneas/akai ryu.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Alien'",
+    imagen: "imagenes/dioneas/alien.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Autokrator'",
+    imagen: "imagenes/dioneas/autokrator.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Basmati GJ'",
+    imagen: "imagenes/dioneas/basmati gj.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Bec de Lievre'",
+    imagen: "imagenes/dioneas/bec de lievre.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Big Mouth'",
+    imagen: "imagenes/dioneas/big mouth.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Big Vigorous'",
+    imagen: "imagenes/dioneas/big vigorous.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Chunky'",
+    imagen: "imagenes/dioneas/chunky.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Diablo'",
+    imagen: "imagenes/dioneas/diablo.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Dutch'",
+    imagen: "imagenes/dioneas/dutch.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Emperor'",
+    imagen: "imagenes/dioneas/emperor.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Flat Spotted'",
+    imagen: "imagenes/dioneas/flat spotted.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Funnel Trap'",
+    imagen: "imagenes/dioneas/funnel trap.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Fused Teeth Yellow'",
+    imagen: "imagenes/dioneas/fused teeth yellow.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
+    nombre: "Dionaea muscipula 'Green Wizard'",
+    imagen: "imagenes/dioneas/green wizard.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "11/11/2025"
+  },
+  {
     nombre: "Dionaea muscipula 'Korean Melody Shark'",
     imagen: "imagenes/dioneas/korean melody shark.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
