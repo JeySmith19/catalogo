@@ -7,6 +7,13 @@ const droseras = [
     actualizacion: "01/11/2025"
   },
   {
+    nombre: "Drosera paradoxa",
+    imagen: "imagenes/droseras/paradoxa.png",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
+    actualizacion: "26/11/2025"
+  },
+  {
     nombre: "Drosera burmannii",
     imagen: "imagenes/droseras/burmanniis.png",
     precios: { chica: "10", mediana: "17", grande: "-" },
