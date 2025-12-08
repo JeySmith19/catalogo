@@ -191,7 +191,7 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Bohemian Garnet'",
     imagen: "imagenes/dioneas/bohemian garnet.png",
-    precios: { chica: "20 soles", mediana: "30 soles", grande: "-" },
+    precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
     actualizacion: "26/11/2025"
   },
@@ -200,7 +200,7 @@ const dionaeas = [
     imagen: "imagenes/dioneas/coq couche.png",
     precios: { chica: "20 soles", mediana: "-", grande: "-" },
     estado: "disponible",
-    actualizacion: "26/11/2025"
+    actualizacion: "08/12/2025"
   },
   {
     nombre: "Dionaea muscipula 'Shup Destruction'",
