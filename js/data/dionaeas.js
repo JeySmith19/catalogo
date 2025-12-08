@@ -80,7 +80,7 @@ const dionaeas = [
     nombre: "Dionaea muscipula 'Chunky'",
     imagen: "imagenes/dioneas/chunky.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "proximamente",
+    estado: "nodisponible",
     actualizacion: "26/11/2025"
   },
   {
@@ -122,7 +122,7 @@ const dionaeas = [
     nombre: "Dionaea muscipula 'Yellow Fused Teeth'",
     imagen: "imagenes/dioneas/fused teeth yellow.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "proximamente",
+    estado: "nodisponible",
     actualizacion: "26/11/2025"
   },
   {
@@ -353,7 +353,7 @@ const dionaeas = [
   nombre: "Dionaea muscipula 'Isistus'",
   imagen: "imagenes/dioneas/isistus.png",
   precios: { chica: "-", mediana: "-", grande: "-" },
-  estado: "proximamente",
+  estado: "nodisponible",
   actualizacion: "26/11/2025"
 },
 {
@@ -380,8 +380,8 @@ const dionaeas = [
 {
   nombre: "Dionaea muscipula 'Dentate'",
   imagen: "imagenes/dioneas/dentate.png",
-  precios: { chica: "-", mediana: "-", grande: "-" },
-  estado: "proximamente",
+  precios: { chica: "20", mediana: "-", grande: "-" },
+  estado: "disponible",
   actualizacion: "26/11/2025"
 },
 {
@@ -432,5 +432,5 @@ const dionaeas = [
   precios: { chica: "-", mediana: "-", grande: "-" },
   estado: "proximamente",
   actualizacion: "26/11/2025"
-}
+},
 ];
