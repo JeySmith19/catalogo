@@ -30,9 +30,9 @@ const droseras = [
   {
     nombre: "Drosera binata Marston Dragon",
     imagen: "imagenes/droseras/binata marston dragon.png",
-    precios: { chica: "-", mediana: "-", grande: "40" },
-    estado: "disponible",
-    actualizacion: "01/11/2025"
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "nodisponible",
+    actualizacion: "09/12/2025"
   },
   {
     nombre: "Drosera binata Ghost",

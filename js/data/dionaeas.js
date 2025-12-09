@@ -177,8 +177,8 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Pac-Man'",
     imagen: "imagenes/dioneas/pacman.png",
-    precios: { chica: "70 soles", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "proximamente",
     actualizacion: "26/11/2025"
   },
   {
@@ -205,15 +205,15 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Shup Destruction'",
     imagen: "imagenes/dioneas/shup destruction.png",
-    precios: { chica: "20 soles", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "nodisponible",
     actualizacion: "26/11/2025"
   },
   {
     nombre: "Dionaea muscipula 'Red Daggers'",
     imagen: "imagenes/dioneas/red daggers.png",
     precios: { chica: "-", mediana: "-", grande: "-" },
-    estado: "nodisponible",
+    estado: "proximamente",
     actualizacion: "26/11/2025"
   },
   {
@@ -233,8 +233,8 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Marston Giant'",
     imagen: "imagenes/dioneas/marston giant.png",
-    precios: { chica: "15 soles", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "nodisponible",
     actualizacion: "26/11/2025"
   },
   {
@@ -247,8 +247,8 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'AR Werewolf Clon A'",
     imagen: "imagenes/dioneas/ar werewolf clon a.png",
-    precios: { chica: "45 soles", mediana: "-", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "nodisponible",
     actualizacion: "26/11/2025"
   },
   {
@@ -261,8 +261,8 @@ const dionaeas = [
   {
     nombre: "Dionaea muscipula 'Ginormous'",
     imagen: "imagenes/dioneas/ginormous.png",
-    precios: { chica: "-", mediana: "27 soles", grande: "-" },
-    estado: "disponible",
+    precios: { chica: "-", mediana: "-", grande: "-" },
+    estado: "nodisponible",
     actualizacion: "26/11/2025"
   },
   {
